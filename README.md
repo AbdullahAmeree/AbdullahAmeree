@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdullahAmeree
 - 👀 I’m interested in Angular.Net, Graphic Designing
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Node.Js & React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +93771651219 WhatsApp
 
